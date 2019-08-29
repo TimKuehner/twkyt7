@@ -1,0 +1,1 @@
+Using SQL today went okay for me.  I am a windows user so I have had issues with other things so far.  It was helpful the there was a GUI that I was able to use for the SQL queries.  The only part I didn't complete was step 9 that runs the SQL.
