@@ -1,5 +1,5 @@
-Tim Kuehner/Chris Rehagen
-Lab 3
+# Tim Kuehner/Chris Rehagen
+## Lab 3
 
 System that is used for management of photographic images for a newspaper.
 
